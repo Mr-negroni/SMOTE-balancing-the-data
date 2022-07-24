@@ -1,2 +1,2 @@
 # SMOTE-balancing-the-data
-Using SMOTE algorithm to the balance the artificially created data samples
+Using SMOTE algorithm to balance the artificially created unbalance data samples.
